@@ -54,6 +54,7 @@ Project Description : This project explores recruitment data from a multinationa
 Approach : The project involves data cleaning, removing outliers, and creating visualizations to better understand recruitment patterns and trends.  
 
 Tech-Stack Used :
+
 **Excel:** Used for data cleaning, analysis, and creating visual representations.  
 
 Insights : Through detailed analysis, the project provides insights to optimize the hiring process, such as identifying key trends and addressing inefficiencies.  
