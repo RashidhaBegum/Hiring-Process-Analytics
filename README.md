@@ -62,6 +62,6 @@ Insights : Through detailed analysis, the project provides insights to optimize 
 Result : The findings from the project support data-driven decisions to improve recruitment strategies and achieve greater efficiency in the hiring process.
 
 ### Drive Link :
-[Click here to access the Hiring Process Analytics PDF Report](https://drive.google.com/file/d/1Hv2PkQHhlkHxWw-7f7g_lDzUfT1Wr9MX/view?usp=sharing)
+[Click here to access the Hiring Process Analytics Report PDF](https://drive.google.com/file/d/1Hv2PkQHhlkHxWw-7f7g_lDzUfT1Wr9MX/view?usp=sharing)
 
-For detailed analysis and related files, refer to the PDF report provided in this repository.
+For detailed analysis and related files, refer to the Report PDF provided in this repository.
